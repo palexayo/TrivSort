@@ -1,3 +1,3 @@
 # TrivSort
 
-Trivial sorting algorithm in python
+Trivial sorting algorithms in python
