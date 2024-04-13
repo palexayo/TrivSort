@@ -1,6 +1,6 @@
 import random
 
-class TrivSort:
+class SelectSort:
     def sort(self, input_list):
         for i in range(len(input_list)):
             min_index = i
@@ -11,7 +11,7 @@ class TrivSort:
         return input_list
 
 def main():
-    o = TrivSort()
+    o = SelectSort()
 
     inputList = []
     randomNum = random.randint(10, 50)
